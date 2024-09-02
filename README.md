@@ -1,6 +1,8 @@
 # Todo List - React 📝
 Este é um projeto de Todo List desenvolvido em React com o objetivo de praticar e consolidar conhecimentos na biblioteca. O projeto foi inicializado utilizando o Vite, focando em um setup rápido e eficiente. A aplicação permite criar, excluir, filtrar, ordenar e pesquisar tarefas, proporcionando uma experiência de usuário intuitiva.
 
+## 🔗 Link para o Deploy: 
+* Veja a versão ao vivo do projeto aqui:<a href="https://proj-lista-de-tarefas.netlify.app/"> Todo List </a>
 <img  alt="Mockup#" height="50%" width="50%" src="https://github.com/mleilane/To-Do-List/blob/main/src/assets/Mockup.png?raw=true"/>
 
 ## Funcionalidades
